@@ -1,4 +1,4 @@
-let providerName = "Glow Spa";
+const providerName = "Glow Spa";
 let businessType = "Beauty & Wellness";
 let providerRating = 4.5;
 let isVerified = true;
